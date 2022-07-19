@@ -1,4 +1,4 @@
-# app_greenbig5_capstone2
+# app_greenbig5_capstone
 
 A new Flutter project.
 
